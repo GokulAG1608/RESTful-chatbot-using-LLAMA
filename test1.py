@@ -5,7 +5,7 @@ url = "http://127.0.0.1:5000/chat"  # Update the URL if the Flask server is runn
 
 # Define the request payload
 data = {
-    "message": "What is deep learning?"
+    "message": "What is artifical intelligence?"
 }
 
 # Send the POST request
