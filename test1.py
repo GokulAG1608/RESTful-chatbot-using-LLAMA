@@ -16,4 +16,3 @@ if response.status_code == 200:
     print("Chatbot Response:", response.json().get("response"))
 else:
     print("Error:", response.json())
-
